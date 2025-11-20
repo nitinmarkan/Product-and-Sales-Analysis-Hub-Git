@@ -1,4 +1,4 @@
-# Antigravity Sales Hub
+# Sales & Product Analysis Hub
 
 ## Overview
 This is a Business Intelligence Hub for Sales & Product Analysis.
